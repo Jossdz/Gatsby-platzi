@@ -11,7 +11,7 @@ export default () => {
         <h2>Compra Exitosa</h2>
         <p>Espero que disfrutes tu swag, lucelo con orgullo</p>
         <p>¡Te esperamos de vuelta, no pares de aprender!</p>
-        <span rol="img" aria-label="emoji">
+        <span role="img" aria-label="emoji">
           ❤️
         </span>
         <Link to="/">
