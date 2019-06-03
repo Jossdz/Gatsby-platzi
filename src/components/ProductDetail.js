@@ -3,7 +3,6 @@ import priceFormat from "../utils/priceFormat"
 import {
   Tag,
   SizeButton,
-  QtyButton,
   SizeSelect,
   Button,
   StyledProductDetail,
