@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Pasarela`,
-    description: `E-Commerce para la tienda de ropa Pasarela`,
+    description: `Moda y estilo para todos`,
     author: `@_CarlosCando`,
   },
   plugins: [

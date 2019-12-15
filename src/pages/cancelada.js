@@ -10,7 +10,7 @@ export default function cancelada() {
         <h2>Compra Cancelada</h2>
         <p>Lo sentimos</p>
         <p>¡Pasarela seguira disponible!</p>
-        <span rol="img" arial-label="emoji">
+        <span role="img" arial-label="emoji">
           💔
         </span>
         <Link to="/">
