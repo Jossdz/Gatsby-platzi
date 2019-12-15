@@ -19,7 +19,10 @@ const Header = ({ siteTitle }) => (
         <MenuItem>
           <Link to="/cart">
             <span>
-              <img src="images/cart.png" alt="Catálogo" />
+              <img
+                src="https://i.postimg.cc/L6wpMxLt/cart.png"
+                alt="Catálogo"
+              />
             </span>
           </Link>
         </MenuItem>
