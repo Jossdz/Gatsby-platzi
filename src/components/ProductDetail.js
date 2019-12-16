@@ -13,7 +13,7 @@ import { SEO, Stars } from "."
 
 export default function ProductDetail({
   price,
-  sku: id,
+  id,
   product: { name, metadata },
 }) {
   const formatePrice = priceFormat(price)
