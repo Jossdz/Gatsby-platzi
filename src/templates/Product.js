@@ -1,5 +1,5 @@
 import React from "react"
-
-export default function Product() {
-  return <div>Producto</div>
+import { ProductDetail } from "../components"
+export default function Product({ pageContext }) {
+  return <ProductDetail {...pageContext} />
 }
