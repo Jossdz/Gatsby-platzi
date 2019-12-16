@@ -17,7 +17,7 @@ const Layout = ({ children }) => (
     <Content>
       <main>{children}</main>
       <Footer>
-        Por Carlos Cando, Francisco Segura y Grabriela Rosero
+        Por Carlos Cando, Francisco Segura y Gabriela Rosero
         <a href="https://github.com/CCando/Gatsby-pasarela">Repositorio</a>
       </Footer>
     </Content>
