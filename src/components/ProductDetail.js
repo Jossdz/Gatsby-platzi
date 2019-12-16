@@ -28,6 +28,7 @@ export default function ProductDetail({
         <b>USD {formatePrice}</b>
         <Stars />
         <small>{metadata.description}</small>
+        <p>Talla:</p>
         {metadata.wear && (
           <SizeSelect selected={size}>
             <SizeButton onClick={() => setSize(1)}>S</SizeButton>
